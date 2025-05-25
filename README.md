@@ -4,3 +4,4 @@
 3. [Gradient Descent](gradient_descent.ipynb)
 4. [Neural Network using python](neural_network.ipynb)
 5. [Telco Customer Churn Prediction](customer_churn_tele.ipynb)
+6. [Image Classification using CNN CIFAR10 dataset](image_classification.ipynb)
